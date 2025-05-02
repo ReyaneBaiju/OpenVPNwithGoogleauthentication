@@ -37,7 +37,7 @@ The `openvpn.pam.template` file is a template for configuring PAM (Pluggable Aut
 1. **Clone the Repository**: Start by cloning this repository to your local machine:
 
     ```bash
-    git clone https://github.com/zaheerahmad33/OpenVPN-2FA-GoogleAuth.git
+    git clone https://github.com/ReyaneBaiju/OpenVPNwithGoogleauthentication.git
     ```
 
 2. **Navigate to the Repository Directory**: Change directory to the cloned repository:
